@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 24 08:14:03 2023
-
-@author: alexb
-"""
-
 import tkinter as tk
 from tkinter import ttk
 import pandas as pd
